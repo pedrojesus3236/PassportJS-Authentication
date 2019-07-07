@@ -1,0 +1,29 @@
+{
+  "name": "scrummer-ed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/joanabrito-rib/scrummer-ed.git"
+  },
+  "author": "Scrummer Team",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/joanabrito-rib/scrummer-ed/issues"
+  },
+  "homepage": "https://gitlab.com/joanabrito-rib/scrummer-ed#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "connect-flash": "^0.1.1",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-session": "^1.16.1",
+    "mongoose": "^5.5.5",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0"
+  }
+}
