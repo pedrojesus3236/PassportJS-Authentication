@@ -1,0 +1,1 @@
+This is a simple project with NodeJS and PassportJS to provide local authentication without third party APIs to sign in and login a user
